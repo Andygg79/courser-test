@@ -2,10 +2,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background {
-        background: linear-gradient(45deg, black 25%, white 25%, white 75%, black 75%);
-    background-size: 20px 20px
-    }
+    background: blueviolet;
 }
 
 h1 {
