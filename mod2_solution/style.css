@@ -33,3 +33,16 @@ p {
     color: #666;
     line-height: 1.6;
 }
+/* Styles for tablet size */
+@media only screen and (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+}
+
+/* Styles for mobile */
+@media only screen and (max-width: 480px) {
+    div {
+        width: 100%;
+    }
+}
