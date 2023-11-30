@@ -30,3 +30,10 @@ p {
     line-height: 1.6;
 }
 
+.checkered-flag {
+    width: 200px; /* Adjust the width as needed */
+    height: 200px; /* Adjust the height as needed */
+    background: linear-gradient(black 25%, white 25%, white 75%, black 75%);
+    background-size: 20px 20px; /* Adjust the size of each square */
+    margin-bottom: 20px; /* Add some space at the bottom */
+}
