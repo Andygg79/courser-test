@@ -16,7 +16,7 @@ div.P1 {
     border-radius: 8px;
     padding: 20px;
     margin: 10px;
-    width: 30%px;
+    width: 150px;
     box-sizing: border-box;
     float: left;
 }
@@ -26,7 +26,7 @@ div.P2 {
     border-radius: 8px;
     padding: 20px;
     margin: 10px;
-    width: 30%;
+    width: 150px;
     box-sizing: border-box;
     float: left;
 }
@@ -36,7 +36,7 @@ div.P3 {
     border-radius: 8px;
     padding: 20px;
     margin: 10px;
-    width: 30%;
+    width: 150px;
     box-sizing: border-box;
 }
 
