@@ -69,10 +69,10 @@ p {
 @media (min-width: 992px) and (max-width: 1199px) {
     #p1 {
         width: auto%;
-        font-size: fit%;
+        font-size: 80%;
     }
     #p2 {
-        width: auto%;
+        width: 80%;
         font-size: fit%;
     }
 }
@@ -80,11 +80,11 @@ p {
 @media (max-width: 991px) {
     #p1 {
         width: auto%;
-        font-size: fit%;
+        font-size: 30%;
     }
     #p2 {
         width: auto%;
-        font-size: fit%;
+        font-size: 30%;
     }
 }
 
