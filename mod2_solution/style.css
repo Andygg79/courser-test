@@ -75,5 +75,16 @@ p {
         height: 100px;
     }
 }
+/********************* Mobile Devices Only ***************/
+@media (max-width: 991px) {
+    #p1 {
+        width: 80%;
+        font-size: 80%;
+    }
+    #p2 {
+        width: 80%;
+        font-size: 80%;
+    }
+}
 
 }
