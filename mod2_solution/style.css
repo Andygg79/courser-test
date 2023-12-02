@@ -69,22 +69,22 @@ p {
 @media (min-width: 992px) and (max-width: 1199px) {
     #p1 {
         width: auto%;
-        font-size: auto%;
+        font-size: fit%;
     }
     #p2 {
         width: auto%;
-        font-size: auto%;
+        font-size: fit%;
     }
 }
 /********************* Mobile Devices Only ***************/
 @media (max-width: 991px) {
     #p1 {
         width: auto%;
-        font-size: auto%;
+        font-size: fit%;
     }
     #p2 {
         width: auto%;
-        font-size: auto%;
+        font-size: fit%;
     }
 }
 
