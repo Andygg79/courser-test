@@ -17,6 +17,7 @@ div.P1 {
     padding: 20px;
     margin: 10px;
     width: 150px;
+    height: 150px;
     box-sizing: border-box;
     float: left;
 }
@@ -27,6 +28,7 @@ div.P2 {
     padding: 20px;
     margin: 10px;
     width: 150px;
+    height: 150px;
     box-sizing: border-box;
     float: left;
 }
@@ -37,6 +39,7 @@ div.P3 {
     padding: 20px;
     margin: 10px;
     width: 150px;
+    height: 150px;
     box-sizing: border-box;
     float: left;
 }
