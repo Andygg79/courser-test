@@ -21,6 +21,7 @@ div.P1 {
     height: 400px;
     box-sizing: border-box;
     float: left;
+    align-content: center;
 }
 div.P2 {
     background-color: cadetblue;
@@ -32,6 +33,7 @@ div.P2 {
     height: 400px;
     box-sizing: border-box;
     float: left;
+    align-content: center;
 }
 div.P3 {
     background-color: cadetblue;
@@ -43,6 +45,7 @@ div.P3 {
     height: 400px;
     box-sizing: border-box;
     float: left;
+    align-content: center;
 }
 
 h2 {
@@ -52,4 +55,25 @@ h2 {
 p {
     color: #FFFFFF;
     line-height: 1.6;
+}
+/**********************Large Device Only*******************/
+@media (min-width: 1200px) {
+    #p1 {
+        width: 80%;
+    }
+    #p2 {
+        width 150px;
+        height: 150px;
+    }
+/********************* Medium Devices Only***************/
+@media (min-width: 992px) and (max-width: 1199px) {
+    #p1 {
+        width: 80%;
+    }
+    #p2 {
+        width: 100px;
+        height: 100px;
+    }
+}
+
 }
