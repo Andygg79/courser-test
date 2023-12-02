@@ -63,27 +63,28 @@ p {
     #p2 {
         width 150px;
         height: 150px;
+        font-size: 80%;
     }
 /********************* Medium Devices Only***************/
 @media (min-width: 992px) and (max-width: 1199px) {
     #p1 {
-        width: 80%;
-        font-size: 80%;
+        width: auto%;
+        font-size: auto%;
     }
     #p2 {
-        width: 100px;
-        height: 100px;
+        width: auto%;
+        font-size: auto%;
     }
 }
 /********************* Mobile Devices Only ***************/
 @media (max-width: 991px) {
     #p1 {
-        width: 80%;
-        font-size: 80%;
+        width: auto%;
+        font-size: auto%;
     }
     #p2 {
-        width: 80%;
-        font-size: 80%;
+        width: auto%;
+        font-size: auto%;
     }
 }
 
