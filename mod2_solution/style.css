@@ -61,30 +61,32 @@ p {
         font-size: 80%;
     }
     #p2 {
-        width 150px;
-        height: 150px;
+        width: 80%;
+        height: 80%;
         font-size: 80%;
     }
 }
 /********************* Medium Devices Only***************/
 @media (min-width: 992px) and (max-width: 1199px) {
     #p1 {
-        width: auto%;
+        width: 80%;
         font-size: 80%;
     }
     #p2 {
         width: 80%;
-        font-size: fit%;
+        height: 80%;
+        font-size: 80%;
     }
 }
 /********************* Mobile Devices Only ***************/
 @media (max-width: 991px) {
     #p1 {
-        width: auto%;
-        font-size: 30%;
+        width: 80%;
+        font-size: 80%;
     }
     #p2 {
-        width: auto%;
-        font-size: 30%;
+        width: 80%;
+        height: 80%;
+        font-size: 80%;
     }
 }
