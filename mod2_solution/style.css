@@ -38,6 +38,7 @@ div.P3 {
     margin: 10px;
     width: 150px;
     box-sizing: border-box;
+    float: left;
 }
 
 h2 {
