@@ -68,11 +68,11 @@ p {
 }
 /********************* Medium Devices Only***************/
 @media (min-width: 992px) and (max-width: 1199px) {
-    #P1 {
+    .P1 {
         width: 80%;
         font-size: 80%;
     }
-    #P2 {
+    .P2 {
         width: 80%;
         height: 80%;
         font-size: 20px;
@@ -80,11 +80,11 @@ p {
 }
 /********************* Mobile Devices Only ***************/
 @media (max-width: 991px) {
-    #P1 {
+    .P1 {
         width: 80%;
         font-size: 80%;
     }
-    #P2 {
+    .P2 {
         width: 80%;
         height: 80%;
         font-size: 10px;
