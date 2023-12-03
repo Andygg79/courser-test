@@ -75,7 +75,7 @@ p {
     .P2 {
         width: 80%;
         height: 80%;
-        font-size: auto;
+        font-size: 30%;
     }
 }
 /********************* Mobile Devices Only ***************/
@@ -87,6 +87,6 @@ p {
     .P2 {
         width: 80%;
         height: 80%;
-        font-size: auto;
+        font-size: 10%;
     }
 }
